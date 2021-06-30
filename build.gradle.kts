@@ -5,7 +5,7 @@ val okta_jwt_verifier_version: String by project
 
 plugins {
     application
-    kotlin("jvm") version "1.4.0"
+    kotlin("jvm") version "1.5.10"
 }
 
 group = "com.okta.demo.ktor"
